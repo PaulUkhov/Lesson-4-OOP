@@ -2,7 +2,7 @@ package ru.gb.oseminar.data;
 
 import java.util.Iterator;
 import java.util.List;
-
+//todo Здесь находится домашнее задание
 public class TeacherGroup<T> implements Iterable<T> {
     private List<T> teachers; // Список преподавателей (или других элементов типа T)
     private Student student; // Студент, который связан с группой
