@@ -5,7 +5,7 @@ import ru.gb.oseminar.data.Teacher;
 import java.time.LocalDate;
 import java.util.List;
 
-
+//todo Здесь находится домашнее задание
 public class TeacherService implements UserService<Teacher> {
     private final List<Teacher> teachers;
 
